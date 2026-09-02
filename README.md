@@ -47,7 +47,6 @@ Sou estudante de Desenvolvimento de Sistemas e foco em criar interfaces modernas
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript%20Avançado-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git%20e%20GitHub-111111?style=for-the-badge"/>
 </p>
 

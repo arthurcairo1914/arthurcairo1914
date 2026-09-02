@@ -38,7 +38,7 @@ Sou estudante de Desenvolvimento de Sistemas, com foco na área de Desenvolvimen
 ### Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,chrome" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,chrome" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Sou estudante de Desenvolvimento de Sistemas, com foco na área de Desenvolvimen
 ###  [Focus Academy](https://arthurcairo1914.github.io/FOCUS-ACADEMY/)
 Landing page simples para uma startup fictícia chamada Focus Academy
 
-###  [Clarim Food](https://github.com/marcosrayy/clarim-food)
+###  [Clarim Food](https://marcosrayy.github.io/clarim-food/)
 Projeto Acadêmico - Clarim Food Açai e Sorvetes
 
 ###  [Focus Start Landing Page](https://arthurcairo1914.github.io/FOCUS/)

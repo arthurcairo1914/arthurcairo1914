@@ -4,7 +4,7 @@
 
 🇧🇷 Fortaleza - Ceará
 
-Sou estudante de Desenvolvimento de Sistemas e foco em criar interfaces modernas, responsivas e com boa experiência para o usuário, sempre buscando evoluir minhas habilidades e construir projetos cada vez melhores.
+Sou estudante de Desenvolvimento de Sistemas, com foco na área de Desenvolvimento Front-end. Tenho interesse em criar interfaces modernas, responsivas e intuitivas, sempre buscando proporcionar uma boa experiência aos usuários. Estou constantemente aprimorando meus conhecimentos e desenvolvendo novas habilidades para criar projetos cada vez mais completos e funcionais.
 
 ---
 
